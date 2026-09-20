@@ -1,0 +1,6 @@
+{
+  "name": "Dragon 9 Sovereign Framework",
+  "description": "The architectural briefing, foundational creed, and sovereign temporal engine of the Dragon 9 ecosystem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

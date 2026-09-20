@@ -1,0 +1,40 @@
+{
+  "project": "Dragon 9 Sovereign Framework",
+  "pipeline": "Fluid Motion of the Future Asset Pipeline",
+  "engine": "Horizon Engine (3D/WebGL)",
+  "assets": [
+    {
+      "id": "DRG9-CRD-001",
+      "name": "Sovereignty over Synchronization",
+      "description": "Visual representation of the rupture of legacy timekeeping.",
+      "prompt": "Sovereignty over Synchronization - A conceptual 3D render of a high-end mechanical clock face shattering into thousands of golden light particles (#eab308) against a deep slate 950 background. The shards represent the rupture of legacy timekeeping. Cinematic lighting, sharp focus, 3D spatial web aesthetic, Horizon Engine style.",
+      "parameters": {
+        "aspect_ratio": "1:1",
+        "primary_color": "#eab308",
+        "secondary_color": "#020617"
+      }
+    },
+    {
+      "id": "DRG9-CRD-002",
+      "name": "Fluid Adaptation",
+      "description": "Visual representation of decentralized node broadcasting and liquid motion.",
+      "prompt": "Fluid Adaptation - A shifting, procedural plasma silhouette of a dragon flowing seamlessly through a decentralized mesh network of glowing golden nodes. Deep obsidian background, liquid motion, vibrant gold energy trails, 3D holographic style. High-contrast, sovereign architecture.",
+      "parameters": {
+        "aspect_ratio": "1:1",
+        "primary_color": "#eab308",
+        "secondary_color": "#000000"
+      }
+    },
+    {
+      "id": "DRG9-CRD-003",
+      "name": "Autonomous Creation",
+      "description": "Visual representation of the sovereign architect and quantum-resistant patterns.",
+      "prompt": "Autonomous Creation - A central sovereign node pulsing in a dark void, broadcasting golden frequency ripples that form complex geometric, quantum-resistant patterns. Minimalist, elegant, high-stakes technical architecture style. Gold and deep slate palette.",
+      "parameters": {
+        "aspect_ratio": "1:1",
+        "primary_color": "#eab308",
+        "secondary_color": "#0f172a"
+      }
+    }
+  ]
+}
